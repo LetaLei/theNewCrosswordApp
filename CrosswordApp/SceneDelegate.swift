@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  CrosswordApp
 //
-//  Created by max on 2020/9/3.
+//  Created by leta on 2020/9/3.
 //
 
 import UIKit
