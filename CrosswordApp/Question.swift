@@ -8,7 +8,7 @@
 import Foundation
 
 class Question{
-    var description = ""
+    var description = [""]
     var answer = ""
     var worngAnswer = [""]
 }
